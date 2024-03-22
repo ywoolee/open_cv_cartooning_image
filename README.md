@@ -30,8 +30,8 @@
 
 ### 😄Good example video of cartooning
 
-https://youtu.be/i4f2hnNf-Lw
+https://youtu.be/k8ZWXX7bxcs
 
 ### 👿bad example video of cartooning
 
-https://youtu.be/k8ZWXX7bxcs
+https://youtu.be/i4f2hnNf-Lw
