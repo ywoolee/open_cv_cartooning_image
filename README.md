@@ -31,9 +31,11 @@
 ### 😄Good example video of cartooning
 ![cartoon](https://github.com/ywoolee/open_cv_cartooning_video/assets/68912105/e6767174-ccf2-4b54-a021-e541719c601a)
 
+(video link)
 https://youtu.be/k8ZWXX7bxcs
 
 ### 👿bad example video of cartooning
 ![cartoon_2](https://github.com/ywoolee/open_cv_cartooning_video/assets/68912105/7dd0c3e0-bb8a-4172-979b-9205e6e1d670)
 
+(video link)
 https://youtu.be/i4f2hnNf-Lw
